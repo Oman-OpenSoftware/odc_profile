@@ -2,8 +2,7 @@ import type React from "react"
 import type { Metadata } from "next"
 import { GeistSans } from "geist/font/sans"
 import { GeistMono } from "geist/font/mono"
-// Commented out due to network issues - using fallback fonts
-// import { Playfair_Display, Noto_Sans_Arabic } from "next/font/google"
+import { Amiri } from "next/font/google"
 import { Analytics } from "@vercel/analytics/next"
 import { Suspense } from "react"
 import { LanguageProvider } from "@/contexts/language-context"
@@ -30,6 +29,13 @@ export const metadata: Metadata = {
   generator: "v0.app",
 }
 
+const amiri = Amiri({
+  weight: ["400", "700"],
+  subsets: ["arabic", "latin"],
+  display: "swap",
+  variable: "--font-amiri",
+})
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -37,10 +43,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ar" dir="rtl">
-      <head>
-        <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap" rel="stylesheet" />
-      </head>
-      <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable}`}>
+      <head />
+      <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable} ${amiri.variable}`}>
         <LanguageProvider>
           <RootLayoutClient>
             <Suspense fallback={null}>{children}</Suspense>
