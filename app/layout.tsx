@@ -23,10 +23,10 @@ import "./globals.css"
 // })
 
 export const metadata: Metadata = {
-  title: "نادي عمان للمطورين - قيادة التحول الرقمي",
+  title: "نادي عمان للمطورين - البيئة الامثل للمطورين في عُمان",
   description:
     "انضم إلى مجتمع نادي عمان للمطورين الذي يقود التحول الرقمي الحقيقي في عُمان. تواصل مع المطورين عبر Discord و GitHub و LinkedIn و WhatsApp.",
-  generator: "v0.app",
+  generator: "odc.app",
 }
 
 const amiri = Amiri({
