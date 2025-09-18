@@ -38,13 +38,15 @@ export function HeroSection() {
             </div>
 
             <div className="flex flex-col sm:flex-row gap-4">
-              <Button size="lg" className="group">
+            <Button size="lg" className="group" asChild>
+              <a href="#community">
                 {t('hero.join')}
                 <ArrowRight className={`h-4 w-4 transition-transform ${language === 'ar' ? 'mr-2 group-hover:-translate-x-1 rotate-180' : 'ml-2 group-hover:translate-x-1'}`} />
-              </Button>
-              <Button variant="outline" size="lg">
-                {t('hero.explore')}
-              </Button>
+              </a>
+            </Button>
+            <Button variant="outline" size="lg" asChild>
+              <a href="#groups">{t('hero.explore')}</a>
+            </Button>
             </div>
 
             <div className="flex items-center gap-8 pt-4">
