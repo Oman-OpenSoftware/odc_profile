@@ -11,7 +11,7 @@ const platforms = [
     icon: MessageCircle,
     members: "50+",
     color: "bg-[#5865F2]/10 text-[#5865F2] border-[#5865F2]/20",
-    href: "https://discord.gg/qrNjPu7N",
+    href: "https://discord.gg/ATuWw4Urhf",
   },
   {
     key: "github",

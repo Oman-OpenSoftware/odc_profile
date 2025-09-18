@@ -41,6 +41,7 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode
 }>) {
+  const isVercel = process.env.VERCEL === '1'
   return (
     <html lang="ar" dir="rtl">
       <head />
@@ -48,7 +49,7 @@ export default function RootLayout({
         <LanguageProvider>
           <RootLayoutClient>
             <Suspense fallback={null}>{children}</Suspense>
-            <Analytics />
+            {isVercel && <Analytics />}
           </RootLayoutClient>
         </LanguageProvider>
       </body>

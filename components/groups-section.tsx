@@ -11,37 +11,37 @@ const groups = [
     key: "localhost",
     image: "/images/logo.png",
     color: "bg-primary/5 border-primary/20",
-    href: "https://chat.whatsapp.com/D2kpIpiqXYa8SRl1wg0bLM",
+    href: "https://chat.whatsapp.com/KkjfkksiSiE4sqGjXopXjx?mode=ems_copy_t",
   },
   {
     key: "learn",
     image: "/images/learn.png",
     color: "bg-accent/5 border-accent/20",
-    href: "https://chat.whatsapp.com/EAjJqofWvX8JiWaejGbTa1",
+    href: "https://chat.whatsapp.com/KkjfkksiSiE4sqGjXopXjx?mode=ems_copy_t",
   },
   {
     key: "jobs",
     image: "/images/jobs.png",
     color: "bg-secondary/5 border-secondary/20",
-    href: "https://chat.whatsapp.com/GmHzCQNc6B1Ho64nXh6I1o",
+    href: "https://chat.whatsapp.com/KkjfkksiSiE4sqGjXopXjx?mode=ems_copy_t",
   },
   {
     key: "oss",
     image: "/images/oss.png",
     color: "bg-chart-1/5 border-chart-1/20",
-    href: "https://chat.whatsapp.com/GbBqjD3P6kcFd4ooo54TO4",
+    href: "https://chat.whatsapp.com/KkjfkksiSiE4sqGjXopXjx?mode=ems_copy_t",
   },
   {
     key: "business",
     image: "/images/busness.png",
     color: "bg-chart-2/5 border-chart-2/20",
-    href: "https://chat.whatsapp.com/DHVx35DuLYW6NgMmndM6Vg",
+    href: "https://chat.whatsapp.com/KkjfkksiSiE4sqGjXopXjx?mode=ems_copy_t",
   },
   {
     key: "integration",
     image: "/images/softwar_integrations.png",
     color: "bg-chart-3/5 border-chart-3/20",
-    href: "https://chat.whatsapp.com/EAzZsPUXclO401N1m9kUZu",
+    href: "https://chat.whatsapp.com/KkjfkksiSiE4sqGjXopXjx?mode=ems_copy_t",
   },
 ]
 

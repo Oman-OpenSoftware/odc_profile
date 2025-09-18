@@ -36,19 +36,19 @@ export function Header() {
         <div className="flex items-center gap-2">
           <LanguageSwitcher />
           <Button variant="ghost" size="sm" asChild>
-            <Link href="https://github.com/oman-developers" target="_blank" rel="noopener noreferrer">
+            <Link href="https://github.com/Oman-OpenSoftware" target="_blank" rel="noopener noreferrer">
               <Github className="h-4 w-4" />
               <span className="sr-only">GitHub</span>
             </Link>
           </Button>
           <Button variant="ghost" size="sm" asChild>
-            <Link href="https://linkedin.com/company/oman-developers" target="_blank" rel="noopener noreferrer">
+            <Link href="https://www.linkedin.com/groups/11851019/" target="_blank" rel="noopener noreferrer">
               <Linkedin className="h-4 w-4" />
               <span className="sr-only">LinkedIn</span>
             </Link>
           </Button>
           <Button variant="ghost" size="sm" asChild>
-            <Link href="https://discord.gg/oman-developers" target="_blank" rel="noopener noreferrer">
+            <Link href="https://discord.gg/ATuWw4Urhf" target="_blank" rel="noopener noreferrer">
               <MessageCircle className="h-4 w-4" />
               <span className="sr-only">Discord</span>
             </Link>

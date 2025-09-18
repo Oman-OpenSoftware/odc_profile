@@ -62,7 +62,7 @@ export function Footer() {
             <h4 className="font-semibold">{t('footer.connect')}</h4>
             <div className="flex gap-3">
               <Link
-                href="https://discord.gg/oman-developers"
+                href="https://discord.gg/ATuWw4Urhf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-8 h-8 bg-background/10 rounded-lg flex items-center justify-center hover:bg-background/20 transition-colors"
@@ -70,7 +70,7 @@ export function Footer() {
                 <MessageCircle className="h-4 w-4" />
               </Link>
               <Link
-                href="https://github.com/oman-developers"
+                href="https://github.com/Oman-OpenSoftware"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-8 h-8 bg-background/10 rounded-lg flex items-center justify-center hover:bg-background/20 transition-colors"
@@ -78,7 +78,7 @@ export function Footer() {
                 <Github className="h-4 w-4" />
               </Link>
               <Link
-                href="https://linkedin.com/company/oman-developers"
+                href="https://www.linkedin.com/groups/11851019/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-8 h-8 bg-background/10 rounded-lg flex items-center justify-center hover:bg-background/20 transition-colors"
@@ -86,7 +86,7 @@ export function Footer() {
                 <Linkedin className="h-4 w-4" />
               </Link>
               <Link
-                href="https://chat.whatsapp.com/oman-developers"
+                href="https://chat.whatsapp.com/KkjfkksiSiE4sqGjXopXjx?mode=ems_copy_t"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-8 h-8 bg-background/10 rounded-lg flex items-center justify-center hover:bg-background/20 transition-colors"
