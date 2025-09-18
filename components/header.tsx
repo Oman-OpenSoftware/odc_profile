@@ -17,7 +17,6 @@ export function Header() {
           <Image src="/images/logo.png" alt={t('header.title')} width={40} height={40} className="rounded-lg" />
           <div>
             <h1 className="font-bold text-lg">{t('header.title')}</h1>
-            <p className="text-xs text-muted-foreground">{t('header.subtitle')}</p>
           </div>
         </div>
 
