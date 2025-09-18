@@ -102,12 +102,12 @@ const translations = {
     'nav.groups': 'Groups',
     'nav.community': 'Community',
     'header.title': 'Oman Developers Club',
-    'header.subtitle': 'Driving Digital Transformation',
+    'header.subtitle': 'The ideal environment for developers in Oman',
     
     // Hero Section
-    'hero.badge': 'Driving Digital Transformation',
+    'hero.badge': 'The ideal environment for developers in Oman',
     'hero.title': 'Welcome to the Oman Developers Club',
-    'hero.description': 'Join our vibrant community of developers, innovators, and tech enthusiasts working together to drive real digital transformation across Oman.',
+    'hero.description': 'Join our vibrant community of developers, innovators, and tech enthusiasts working together to build the ideal environment for developers across Oman.',
     'hero.join': 'Join Our Community',
     'hero.explore': 'Explore Groups',
     'hero.groups': 'Specialized Groups',
@@ -116,7 +116,7 @@ const translations = {
     
     // Mission Section
     'mission.title': 'Our Mission',
-    'mission.subtitle': 'We are committed to driving real digital transformation in Oman through collaboration, innovation, and knowledge sharing.',
+    'mission.subtitle': 'We are committed to build the ideal environment for developers in Oman through collaboration, innovation, and knowledge sharing.',
     'mission.digital.title': 'Digital Transformation',
     'mission.digital.description': 'Leading the charge in modernizing Oman\'s digital landscape through innovative solutions and best practices.',
     'mission.community.title': 'Community Building',
@@ -160,7 +160,7 @@ const translations = {
     
     // Footer
     'footer.title': 'Oman Developers Club',
-    'footer.subtitle': 'Driving Digital Transformation',
+    'footer.subtitle': 'The ideal environment for developers in Oman',
     'footer.description': 'Building a stronger tech community in Oman through collaboration, learning, and innovation.',
     'footer.community': 'Community',
     'footer.mission': 'Our Mission',
@@ -176,7 +176,7 @@ const translations = {
     'footer.copyright': '© 2025 Oman Developers Club. Building the future of tech in Oman.',
     
     // Meta
-    'meta.title': 'Oman Developers Club - Driving Digital Transformation',
+    'meta.title': 'Oman Developers Club - The ideal environment for developers in Oman',
     'meta.description': 'Join the Oman Developers Club community driving real digital transformation in Oman. Connect with developers across Discord, GitHub, LinkedIn, and WhatsApp.',
   }
 }
