@@ -25,7 +25,7 @@ const platforms = [
     icon: Linkedin,
     members: "80+",
     color: "bg-[#0077B5]/10 text-[#0077B5] border-[#0077B5]/20",
-    href: "https://www.linkedin.com/groups/11851019/",
+    href: "https://www.linkedin.com/company/om-dev-club",
   },
   {
     key: "whatsapp",
