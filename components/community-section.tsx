@@ -93,7 +93,7 @@ export function CommunitySection() {
               </p>
             </div>
             <Button size="lg" className="shrink-0">
-              {"Get Started"}
+                {t('community.cta.btn')}
             </Button>
           </div>
         </div>

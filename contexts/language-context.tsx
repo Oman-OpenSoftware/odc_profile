@@ -74,6 +74,7 @@ const translations = {
     'community.join.button': 'انضم الآن',
     'community.cta.title': 'مستعد للبدء؟',
     'community.cta.description': 'اختر منصتك المفضلة وانضم للمحادثة اليوم.',
+      'community.cta.btn': 'انضم الآن',
     
     // Footer
     'footer.title': 'نادي عمان للمطورين',
@@ -157,6 +158,7 @@ const translations = {
     'community.join.button': 'Join Now',
     'community.cta.title': 'Ready to get started?',
     'community.cta.description': 'Choose your preferred platform and join the conversation today.',
+      'community.cta.btn': 'Join Now',
     
     // Footer
     'footer.title': 'Oman Developers Club',

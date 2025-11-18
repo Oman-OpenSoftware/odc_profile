@@ -67,14 +67,14 @@ export function HeroSection() {
 
           <div className="relative">
             <div className="relative z-10 bg-card rounded-2xl p-8 shadow-2xl border">
-              <Image
-                src="/images/logo.png"
-                alt={t('header.title')}
-                width={300}
-                height={300}
-                className="w-full h-auto"
-                priority
-              />
+            <Image
+              src="/images/odc_3d_slim.avif"
+              alt={t('header.title')}
+              width={300}
+              height={300}
+              className="w-full h-auto rounded-2xl object-cover"
+              priority
+            />
             </div>
             {/* Decorative elements */}
             <div className="absolute -top-4 -right-4 w-24 h-24 bg-primary/20 rounded-full blur-xl" />

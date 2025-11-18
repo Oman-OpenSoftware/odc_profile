@@ -28,8 +28,8 @@ export function MissionSection() {
           </div>
 
           <div className="text-center space-y-4">
-            <div className="w-16 h-16 bg-accent/10 rounded-2xl flex items-center justify-center mx-auto">
-              <Users className="h-8 w-8 text-accent-foreground" />
+            <div className="w-16 h-16 bg-primary/10 rounded-2xl flex items-center justify-center mx-auto">
+              <Users className="h-8 w-8 text-primary" />
             </div>
             <h3 className="text-xl font-semibold">{t('mission.community.title')}</h3>
             <p className="text-muted-foreground">
@@ -38,8 +38,8 @@ export function MissionSection() {
           </div>
 
           <div className="text-center space-y-4">
-            <div className="w-16 h-16 bg-secondary/10 rounded-2xl flex items-center justify-center mx-auto">
-              <Zap className="h-8 w-8 text-secondary-foreground" />
+            <div className="w-16 h-16 bg-primary/10 rounded-2xl flex items-center justify-center mx-auto">
+              <Zap className="h-8 w-8 text-primary" />
             </div>
             <h3 className="text-xl font-semibold">{t('mission.innovation.title')}</h3>
             <p className="text-muted-foreground">

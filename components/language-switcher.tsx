@@ -20,7 +20,7 @@ export function LanguageSwitcher() {
     >
       <Globe className="h-4 w-4" />
       <span className="text-sm font-medium">
-        {language === 'ar' ? 'English' : 'العربية'}
+        {language === 'ar' ? 'Eng' : 'ع'}
       </span>
     </Button>
   )
