@@ -55,7 +55,7 @@ export function HeroSection() {
                 <div className="text-sm text-muted-foreground">{t('hero.groups')}</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl font-bold text-primary">520+</div>
+                <div className="text-2xl font-bold text-primary">570+</div>
                 <div className="text-sm text-muted-foreground">{t('hero.members')}</div>
               </div>
               <div className="text-center">
