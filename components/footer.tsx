@@ -37,6 +37,9 @@ export function Footer() {
               <Link href="#mission" className="block opacity-80 hover:opacity-100 transition-opacity">
                 {t('footer.mission')}
               </Link>
+              <Link href="#initiatives" className="block opacity-80 hover:opacity-100 transition-opacity">
+                {t('footer.initiatives')}
+              </Link>
               <Link href="#groups" className="block opacity-80 hover:opacity-100 transition-opacity">
                 {t('footer.groups')}
               </Link>

@@ -24,6 +24,9 @@ export function Header() {
           <Link href="#mission" className="text-sm font-medium hover:text-primary transition-colors">
             {t('nav.mission')}
           </Link>
+          <Link href="#initiatives" className="text-sm font-medium hover:text-primary transition-colors">
+            {t('nav.initiatives')}
+          </Link>
           <Link href="#groups" className="text-sm font-medium hover:text-primary transition-colors">
             {t('nav.groups')}
           </Link>
