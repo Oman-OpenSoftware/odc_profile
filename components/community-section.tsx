@@ -30,7 +30,7 @@ const platforms = [
   {
     key: "whatsapp",
     icon: MessageSquare,
-    members: "570+",
+    members: "620+",
     color: "bg-[#25D366]/10 text-[#25D366] border-[#25D366]/20",
     href: "https://chat.whatsapp.com/KkjfkksiSiE4sqGjXopXjx?mode=ems_copy_t",
   },
