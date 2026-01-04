@@ -121,7 +121,7 @@ const translations = {
     'footer.groups.integration': 'التكاملات',
     'footer.connect': 'تواصل',
     'footer.copyright': '© 2025 نادي المطورين. بناء مستقبل التكنولوجيا في عُمان.',
-    'footer.copyright2': 'النادي مباردة غير ربحية تحت رعاية شركة رمز للتقنية والبيانات',
+    'footer.copyright2': 'النادي هو مبادرة غير ربحية من شركة رمز للتقنية والبيانات',
     // Meta
     'meta.title': 'نادي المطورين - البيئة الامثل للمطورين في عُمان',
     'meta.description': 'انضم إلى مجتمع نادي المطورين الذي يقود التحول الرقمي الحقيقي في عُمان. تواصل مع المطورين عبر Discord و GitHub و LinkedIn و WhatsApp.',
@@ -234,7 +234,7 @@ const translations = {
     'footer.groups.integration': 'Integrations',
     'footer.connect': 'Connect',
     'footer.copyright': '© 2025 Developers Club. Building the future of tech in Oman.',
-    'footer.copyright2': 'The club is a non-profit initiative under the patronage of Ramz Technology and Data Company',
+    'footer.copyright2': 'The club is a non-optional initiative by Ramz Technologies and Data Company.',
 
     // Meta
     'meta.title': 'Developers Club - The ideal environment for developers in Oman',
