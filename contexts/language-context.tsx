@@ -121,7 +121,7 @@ const translations = {
     'footer.groups.integration': 'التكاملات',
     'footer.connect': 'تواصل',
     'footer.copyright': '© 2025 نادي المطورين. بناء مستقبل التكنولوجيا في عُمان.',
-    'footer.copyright2': 'النادي مباردة غير ربيحية تحت رعاية شركة رمز للتقنية والبيانات',
+    'footer.copyright2': 'النادي مباردة غير ربحية تحت رعاية شركة رمز للتقنية والبيانات',
     // Meta
     'meta.title': 'نادي المطورين - البيئة الامثل للمطورين في عُمان',
     'meta.description': 'انضم إلى مجتمع نادي المطورين الذي يقود التحول الرقمي الحقيقي في عُمان. تواصل مع المطورين عبر Discord و GitHub و LinkedIn و WhatsApp.',
