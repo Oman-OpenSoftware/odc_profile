@@ -23,9 +23,9 @@ import "./globals.css"
 // })
 
 export const metadata: Metadata = {
-  title: "نادي عمان للمطورين - البيئة الامثل للمطورين في عُمان",
+  title: "نادي المطورين - البيئة الامثل للمطورين في عُمان",
   description:
-    "انضم إلى مجتمع نادي عمان للمطورين الذي يقود التحول الرقمي الحقيقي في عُمان. تواصل مع المطورين عبر Discord و GitHub و LinkedIn و WhatsApp.",
+    "انضم إلى مجتمع نادي المطورين الذي يقود التحول الرقمي الحقيقي في عُمان. تواصل مع المطورين عبر Discord و GitHub و LinkedIn و WhatsApp.",
   generator: "odc.app",
     icons: {
         icon: '/favicon.ico', // Can also be '/icon.png' or '/icon.svg'

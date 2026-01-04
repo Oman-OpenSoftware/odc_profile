@@ -4,7 +4,7 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
-  /* Updated color tokens to match Oman Developers Club brand colors */
+  /* Updated color tokens to match Developers Club brand colors */
   --background: oklch(1 0 0); /* White */
   --foreground: oklch(0.145 0.02 240); /* Dark Blue #001219 */
   --card: oklch(0.98 0.02 180); /* Light Teal #e0fbfc */

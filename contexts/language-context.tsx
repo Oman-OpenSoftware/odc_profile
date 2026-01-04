@@ -19,12 +19,12 @@ const translations = {
     'nav.initiatives': 'المبادرات',
     'nav.groups': 'المجموعات',
     'nav.community': 'المجتمع',
-    'header.title': 'نادي عمان للمطورين',
+    'header.title': 'نادي المطورين',
     'header.subtitle': 'البيئة الامثل للمطورين في عُمان',
     
     // Hero Section
     'hero.badge': 'البيئة الامثل للمطورين في عُمان',
-    'hero.title': 'مرحباً بكم في نادي عمان للمطورين',
+    'hero.title': 'مرحباً بكم في نادي المطورين',
     'hero.description': 'انضم إلى مجتمعنا النابض بالشغف من المطورين والمبدعين وعشاق التكنولوجيا الذين يعملون معاً لتحقيق التحول الرقمي في عُمان.',
     'hero.join': 'انضم لمجتمعنا',
     'hero.explore': 'استكشف المجموعات',
@@ -105,7 +105,7 @@ const translations = {
       'community.cta.btn': 'انضم الآن',
     
     // Footer
-    'footer.title': 'نادي عمان للمطورين',
+    'footer.title': 'نادي المطورين',
     'footer.subtitle': 'البيئة الامثل للمطورين في عُمان',
     'footer.description': 'بناء مجتمع تقني أقوى في عُمان من خلال التعاون والتعلم والابتكار.',
     'footer.community': 'المجتمع',
@@ -120,11 +120,11 @@ const translations = {
     'footer.groups.business': 'شبكة الأعمال',
     'footer.groups.integration': 'التكاملات',
     'footer.connect': 'تواصل',
-    'footer.copyright': '© 2025 نادي عمان للمطورين. بناء مستقبل التكنولوجيا في عُمان.',
-    
+    'footer.copyright': '© 2025 نادي المطورين. بناء مستقبل التكنولوجيا في عُمان.',
+    'footer.copyright2': 'النادي مباردة غير ربيحية تحت رعاية شركة رمز للتقنية والبيانات',
     // Meta
-    'meta.title': 'نادي عمان للمطورين - البيئة الامثل للمطورين في عُمان',
-    'meta.description': 'انضم إلى مجتمع نادي عمان للمطورين الذي يقود التحول الرقمي الحقيقي في عُمان. تواصل مع المطورين عبر Discord و GitHub و LinkedIn و WhatsApp.',
+    'meta.title': 'نادي المطورين - البيئة الامثل للمطورين في عُمان',
+    'meta.description': 'انضم إلى مجتمع نادي المطورين الذي يقود التحول الرقمي الحقيقي في عُمان. تواصل مع المطورين عبر Discord و GitHub و LinkedIn و WhatsApp.',
   },
   en: {
     // Header
@@ -132,12 +132,12 @@ const translations = {
     'nav.initiatives': 'Initiatives',
     'nav.groups': 'Groups',
     'nav.community': 'Community',
-    'header.title': 'Oman Developers Club',
+    'header.title': 'Developers Club',
     'header.subtitle': 'The ideal environment for developers in Oman',
     
     // Hero Section
     'hero.badge': 'The ideal environment for developers in Oman',
-    'hero.title': 'Welcome to the Oman Developers Club',
+    'hero.title': 'Welcome to the Developers Club',
     'hero.description': 'Join our vibrant community of developers, innovators, and tech enthusiasts working together to build the ideal environment for developers across Oman.',
     'hero.join': 'Join Our Community',
     'hero.explore': 'Explore Groups',
@@ -218,7 +218,7 @@ const translations = {
       'community.cta.btn': 'Join Now',
     
     // Footer
-    'footer.title': 'Oman Developers Club',
+    'footer.title': 'Developers Club',
     'footer.subtitle': 'The ideal environment for developers in Oman',
     'footer.description': 'Building a stronger tech community in Oman through collaboration, learning, and innovation.',
     'footer.community': 'Community',
@@ -233,11 +233,12 @@ const translations = {
     'footer.groups.business': 'Business Network',
     'footer.groups.integration': 'Integrations',
     'footer.connect': 'Connect',
-    'footer.copyright': '© 2025 Oman Developers Club. Building the future of tech in Oman.',
-    
+    'footer.copyright': '© 2025 Developers Club. Building the future of tech in Oman.',
+    'footer.copyright2': 'The club is a non-profit initiative under the patronage of Ramz Technology and Data Company',
+
     // Meta
-    'meta.title': 'Oman Developers Club - The ideal environment for developers in Oman',
-    'meta.description': 'Join the Oman Developers Club community driving real digital transformation in Oman. Connect with developers across Discord, GitHub, LinkedIn, and WhatsApp.',
+    'meta.title': 'Developers Club - The ideal environment for developers in Oman',
+    'meta.description': 'Join the Developers Club community driving real digital transformation in Oman. Connect with developers across Discord, GitHub, LinkedIn, and WhatsApp.',
   }
 }
 

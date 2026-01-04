@@ -102,6 +102,7 @@ export function Footer() {
 
         <div className="border-t border-background/20 mt-8 pt-8 text-center text-sm opacity-80">
           <p>{t('footer.copyright')}</p>
+          <p>{t('footer.copyright2')}</p>
         </div>
       </div>
     </footer>
